@@ -2,7 +2,7 @@
 public class ABCMain {
 
 	/**
-	 * @param args
+	 * @param args ABC
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
